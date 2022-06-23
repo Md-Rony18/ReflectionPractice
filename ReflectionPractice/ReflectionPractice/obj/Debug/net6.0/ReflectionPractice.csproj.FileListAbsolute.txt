@@ -1,0 +1,15 @@
+D:\C#\ReflectionPractice\ReflectionPractice\bin\Debug\net6.0\ReflectionPractice.exe
+D:\C#\ReflectionPractice\ReflectionPractice\bin\Debug\net6.0\ReflectionPractice.deps.json
+D:\C#\ReflectionPractice\ReflectionPractice\bin\Debug\net6.0\ReflectionPractice.runtimeconfig.json
+D:\C#\ReflectionPractice\ReflectionPractice\bin\Debug\net6.0\ReflectionPractice.dll
+D:\C#\ReflectionPractice\ReflectionPractice\bin\Debug\net6.0\ReflectionPractice.pdb
+D:\C#\ReflectionPractice\ReflectionPractice\obj\Debug\net6.0\ReflectionPractice.csproj.AssemblyReference.cache
+D:\C#\ReflectionPractice\ReflectionPractice\obj\Debug\net6.0\ReflectionPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ReflectionPractice\ReflectionPractice\obj\Debug\net6.0\ReflectionPractice.AssemblyInfoInputs.cache
+D:\C#\ReflectionPractice\ReflectionPractice\obj\Debug\net6.0\ReflectionPractice.AssemblyInfo.cs
+D:\C#\ReflectionPractice\ReflectionPractice\obj\Debug\net6.0\ReflectionPractice.csproj.CoreCompileInputs.cache
+D:\C#\ReflectionPractice\ReflectionPractice\obj\Debug\net6.0\ReflectionPractice.dll
+D:\C#\ReflectionPractice\ReflectionPractice\obj\Debug\net6.0\refint\ReflectionPractice.dll
+D:\C#\ReflectionPractice\ReflectionPractice\obj\Debug\net6.0\ReflectionPractice.pdb
+D:\C#\ReflectionPractice\ReflectionPractice\obj\Debug\net6.0\ReflectionPractice.genruntimeconfig.cache
+D:\C#\ReflectionPractice\ReflectionPractice\obj\Debug\net6.0\ref\ReflectionPractice.dll
